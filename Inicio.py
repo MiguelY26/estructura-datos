@@ -4,3 +4,6 @@ if edad < 18:
     print("No puedes entrar")
 else:
     print("Puedes entrar") 
+nombre = input("Ingrese su nombre: ")
+edad = int(input("Ingrese su edad: "))
+
